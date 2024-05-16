@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I'm a multifunctional learner! If you wanna discuss about epistemology or geopolitical, call me! :raised_hands:
 
 ### Languages and Tools: 
-<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)" />
+<img align="left" alt="Java" width="35px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
